@@ -1,0 +1,13 @@
+.container{
+    background-color: lightgray;
+    font-family: fantasy;
+    margin-left:25%;
+    margin-right: 40%;
+    padding: 2%;
+    border: solid;
+    
+}
+h1{
+    color: blue;
+    text-align: 30%;
+}
